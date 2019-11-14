@@ -1,26 +1,24 @@
-* {
-  padding: 0;
-  margin: 0;
-}
-
 .container {
-  width: 600px;
-  height: 500px;
+  position: absolute;
   margin: 0 auto;
-  border: 1px solid silver;
-  background: teal;
+  margin-top: 100px;
+  margin-left: 400px;
+  background: rgb(165, 214, 236);
+  border: 2px solid black;
+  width: 500px;
+  height: 400px;
 }
 
 #first {
-  margin: 10px;
   width: 100px;
   height: 100px;
-  background: skyblue;
+  position: absolute;
+  background: rgb(165, 231, 111);
 }
 
 #second {
-  margin: 10px;
   width: 100px;
   height: 100px;
-  background: wheat;
+  position: absolute;
+  background: rgb(31, 58, 133);
 }
