@@ -1,0 +1,16 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "infinite carousel",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "author": "Vitaliy Fedyay",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
